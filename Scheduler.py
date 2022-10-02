@@ -1,7 +1,7 @@
 import numpy as np
 import pandas as pd
 import csv as csv
-
+chjgvjvjjh
 # Maps each day to a particular number
 def getDayMap(s):
 	if (s=="Sunday"):
